@@ -31,7 +31,8 @@ twitter_username: _Zakalwe
 github_username:  metal_fan
 
 # Build settings
-#remote_theme: midnight
+remote_theme: Midnight
+theme: Midnight
 plugins:
   #  - jekyll-feed
     - jekyll-remote-theme
