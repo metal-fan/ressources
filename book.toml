@@ -11,3 +11,7 @@ prefered-dark-theme = "navy"
 git-repository-url  = "https://github.com/metal-fan/ressources"
 git-repository-icon = "fa-github"
 input-404           = "404.md"
+
+[output.html.fold]
+enable = true
+level = 1
