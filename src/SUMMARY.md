@@ -18,6 +18,7 @@
 
 # Personnal ressources
 
-[To be defined]()
+- [Personal Github](https://github.com/metal-fan)
+- [Linked In](https://www.linkedin.com/sylvain.navers)
 
 
